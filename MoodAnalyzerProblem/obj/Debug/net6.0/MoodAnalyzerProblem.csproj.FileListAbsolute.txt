@@ -1,0 +1,15 @@
+E:\C#\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\MoodAnalyzerProblem.csproj.AssemblyReference.cache
+E:\C#\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\MoodAnalyzerProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\MoodAnalyzerProblem.AssemblyInfoInputs.cache
+E:\C#\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\MoodAnalyzerProblem.AssemblyInfo.cs
+E:\C#\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\MoodAnalyzerProblem.csproj.CoreCompileInputs.cache
+E:\C#\MoodAnalyzerProblem\MoodAnalyzerProblem\bin\Debug\net6.0\MoodAnalyzerProblem.exe
+E:\C#\MoodAnalyzerProblem\MoodAnalyzerProblem\bin\Debug\net6.0\MoodAnalyzerProblem.deps.json
+E:\C#\MoodAnalyzerProblem\MoodAnalyzerProblem\bin\Debug\net6.0\MoodAnalyzerProblem.runtimeconfig.json
+E:\C#\MoodAnalyzerProblem\MoodAnalyzerProblem\bin\Debug\net6.0\MoodAnalyzerProblem.dll
+E:\C#\MoodAnalyzerProblem\MoodAnalyzerProblem\bin\Debug\net6.0\MoodAnalyzerProblem.pdb
+E:\C#\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\MoodAnalyzerProblem.dll
+E:\C#\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\refint\MoodAnalyzerProblem.dll
+E:\C#\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\MoodAnalyzerProblem.pdb
+E:\C#\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\MoodAnalyzerProblem.genruntimeconfig.cache
+E:\C#\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\ref\MoodAnalyzerProblem.dll
