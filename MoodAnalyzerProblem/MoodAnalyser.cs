@@ -31,6 +31,27 @@ namespace MoodAnalyzerProblem
             {
                 return "HAPPY";
             }
+
+            try
+            {
+                if(this.message.Equals(string.Empty))
+                {
+                    throw new CustomExpection(CustomExpection.ExpectionType.EMPTY_MESSAGE, "Mood should not be empty");
+                }
+                if (this.message.Contains("Sad"))
+                {
+                    return "SAD";
+                }
+                else
+                {
+                    return "HAPPY";
+                }
+
+            }
+            catch(NullReferenceException)
+            {
+                throw new CustomExpection(CustomExpection.ExpectionType.NULL_MESSAGE, "Mood should not be NULL");
+            }
         }
     }
 }
